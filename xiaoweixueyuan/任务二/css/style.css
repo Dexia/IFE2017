@@ -1,0 +1,65 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+.target1{
+	border:1px solid #C0C0C0;
+	padding: 30px 20px;
+	margin: 30px 20px;
+	
+	line-height: 30px;
+
+}
+.text1{
+	text-indent: 50px;
+}
+.text2{
+	text-indent: 50px;
+}
+.target2{
+	border:1px solid #c0c0c0;
+	padding: 30px 20px;
+	margin: 30px 20px;
+	line-height: 30px;
+}
+.target2 ul{
+	margin: 0 0 0 30px;
+}
+.target3{
+	border:1px solid #c0c0c0;
+	padding: 30px 20px;
+	margin: 30px 20px;
+}
+.target3 img{
+	height: 100px;
+	width: 100px;
+
+}
+
+.target3 .imgs{
+	margin: 30px;
+	padding: 30px;
+	border-left: 60px;
+	border-right: 60px;
+	border:1px solid #c0c0c0;
+}
+.target4{
+	border:1px solid #c0c0c0;
+	padding: 30px 20px;
+	margin: 30px 20px;
+}
+.target4 ol{
+	margin: 0 0 0 30px;
+}
+
+.target5{
+	border:1px solid #c0c0c0;
+	padding: 30px 20px;
+	margin: 30px 20px;
+	align-content: center
+}
+.hello{
+	position: fixed;
+	bottom: 0;left: 0;right: 0;
+
+}
